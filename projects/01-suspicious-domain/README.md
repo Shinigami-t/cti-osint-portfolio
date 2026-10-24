@@ -1,9 +1,9 @@
 # CTI-001 — Suspicious Domain Investigation
 
-**Project type:** Simulated CTI investigation  
-**Status:** Completed training assessment  
-**Analyst:** [Your name / GitHub handle]  
-**Date:** [Add completion date]
+**Project type:** Simulated CTI investigation
+**Status:** Completed simulated investigation
+**Analyst:** Shinigami-t
+**Date:** 24 october 2026
 
 ## Objective
 
