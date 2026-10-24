@@ -8,7 +8,7 @@ A collection of documented investigations demonstrating evidence handling, sourc
 
 | ID | Project | Status | Type |
 |---|---|---|---|
-| 01 | Suspicious Domain Investigation | Complete draft | Simulated CTI case |
+| 01 | Suspicious Domain Investigation | Complete simulated investigation | Simulated CTI case |
 | 02 | Campaign Correlation Investigation | Planned | Simulated CTI case |
 | 03 | Threat Actor Attribution Assessment | Planned | Simulated CTI case |
 | 04 | Digital Identity / Persona OSINT | Planned | Ethical OSINT case |
