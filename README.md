@@ -23,7 +23,8 @@ A collection of documented investigations demonstrating evidence handling, sourc
 - [Review the evidence register](projects/01-suspicious-domain/evidence-register.md)
 - [Review source-dependency analysis](projects/01-suspicious-domain/source-analysis.md)
 - [Review ATT&CK mapping](projects/01-suspicious-domain/attack-mapping.md)
-
+- [Review the investigation timeline](projects/01-suspicious-domain/timeline.md)
+- [Review intelligence gaps and collection priorities](projects/01-suspicious-domain/intelligence-gaps.md)
 ## Method
 
 For each investigation, distinguish:
