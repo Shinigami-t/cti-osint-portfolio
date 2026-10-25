@@ -1,0 +1,49 @@
+CASE ID: GF-2026-003
+CASE NAME: Operation Glass Finch
+CASE TYPE: Simulated phishing incident
+DATE: 2026-03-18
+STATUS: Fictional training exercise
+
+REPORT
+An employee reports receiving an email claiming to be from the
+company IT support team. The email states that the employee's
+mailbox will be suspended unless the account is verified.
+
+The employee clicked the link and saw a sign-in page but reports
+closing the page without entering credentials.
+
+PRESERVED INDICATORS
+
+Indicator A
+Type: Sender email
+Value: it-support@northstar-verify.example
+Source: Employee-provided email copy
+
+Indicator B
+Type: URL
+Value: hxxps://northstar-verify.example/session
+Source: Employee-provided email copy
+Note: The URL scheme is defanged for safe documentation.
+
+Indicator C
+Type: Sender display name
+Value: Corporate IT Helpdesk
+Source: Employee-provided email copy
+
+Indicator D
+Type: Email subject
+Value: Urgent: Mailbox suspension pending verification
+Source: Employee-provided email copy
+
+LIMITATIONS
+No original email headers are available.
+No DNS lookup results are available.
+No certificate records are available.
+No server logs are available.
+No evidence confirms whether credentials were submitted.
+No attribution to a threat actor has been established.
+
+SAFETY NOTE
+All entities and events in this case are fictional. The .example
+domain is reserved for documentation and is not a real target.
+Do not attempt to visit the URL.

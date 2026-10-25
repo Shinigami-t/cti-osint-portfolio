@@ -10,7 +10,7 @@ A collection of documented investigations demonstrating evidence handling, sourc
 |---|---|---|---|
 | 01 | Suspicious Domain Investigation | Complete simulated investigation | Simulated CTI case |
 | 02 | [Campaign Correlation Investigation](projects/02-campaign-correlation/README.md) | Complete simulated investigation | Simulated CTI case |
-| 03 | Threat Actor Attribution Assessment | Planned | Simulated CTI case |
+| 03 | [Phishing Infrastructure Investigation](projects/03-phishing-infrastructure/README.md) | Complete simulated investigation | Simulated CTI case |
 | 04 | Digital Identity / Persona OSINT | Planned | Ethical OSINT case |
 | 05 | Image Geolocation Investigation | Planned | Public image / documented source |
 | 10 | Full CTI Investigation | Planned | Capstone |
@@ -40,6 +40,22 @@ A collection of documented investigations demonstrating evidence handling, sourc
 **Assessment:** The incidents may be related, but the evidence is insufficient to confirm a single campaign or attribute activity to a threat actor.
 
 **Transparency note:** This is a simulated training investigation. All incident details, organizations, domains, and events are fictional.
+
+## Project 03 — Phishing Infrastructure Investigation
+
+**Question:** What can be established about a suspected phishing email and its associated infrastructure, and what evidence is still needed to assess exposure?
+
+- [Read the investigation report](projects/03-phishing-infrastructure/analysis/report.md)
+- [Review the initial assessment](projects/03-phishing-infrastructure/analysis/initial-assessment.md)
+- [Review indicator analysis](projects/03-phishing-infrastructure/analysis/indicator-analysis.md)
+- [Review the investigation timeline](projects/03-phishing-infrastructure/analysis/timeline.md)
+- [Review the exposure assessment](projects/03-phishing-infrastructure/analysis/exposure-assessment.md)
+- [Review evidence requests](projects/03-phishing-infrastructure/analysis/evidence-requests.md)
+- [Review the fictional incident brief](projects/03-phishing-infrastructure/evidence/incident-brief.txt)
+
+**Assessment:** The available scenario is consistent with a phishing attempt, but the original email, infrastructure records, and relevant telemetry are unavailable. Actual compromise and attribution have not been established.
+
+**Transparency note:** This is a simulated training investigation. The domain, email, incident details, and events are fictional.
 ## Method
 
 For each investigation, distinguish:
