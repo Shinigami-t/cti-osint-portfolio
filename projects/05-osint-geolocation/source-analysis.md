@@ -34,3 +34,13 @@
 
 ## Current Assessment
 The available information is sufficient to generate a candidate hypothesis, but not to confirm the exact location. The source URL, image licence, and candidate-scene comparison remain outstanding.
+
+## Source S-05: Original Wikimedia Commons Record
+- File title: Street photography.jpg
+- Photographer/uploader: Wangming1992
+- Original file page: https://commons.wikimedia.org/wiki/File:Street_photography.jpg
+- Image date: 21 October 2012
+- Published camera coordinates: 38.045556, -84.498333
+- Licence: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+- Assessment: Primary source for the published image attribution, licence, and camera-location metadata.
+- Limitation: The published coordinates are available to anyone inspecting the source page. They cannot be presented as coordinates independently discovered through our investigation.

@@ -41,3 +41,12 @@ The original source reportedly publishes location information. This is a practic
 
 ## Current Conclusion
 The exact location remains unconfirmed. Further source verification and scene comparison are required before a final conclusion can be made.
+
+## Image Attribution
+
+Target photograph: Street photography.jpg  
+Photographer: Wangming1992  
+Original source: https://commons.wikimedia.org/wiki/File:Street_photography.jpg  
+Licence: [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
+
+The photograph is used for educational OSINT practice. The original source publishes location metadata, which is disclosed in this investigation. The image is not presented as an independently geolocated target.

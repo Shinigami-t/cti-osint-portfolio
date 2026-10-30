@@ -41,3 +41,27 @@ The original source URL, licence, publication context, and any externally publis
 
 ## 8. Preliminary Conclusion
 The available observations provide leads for further research but do not yet establish an exact location. The case remains open.
+
+## 9. Original Source Verification
+
+The original Wikimedia Commons record was located:
+- File: Street photography.jpg
+- Photographer: Wangming1992
+- Source: https://commons.wikimedia.org/wiki/File:Street_photography.jpg
+- Capture date: 21 October 2012
+- Published camera coordinates: 38.045556, -84.498333
+- Licence: CC BY-SA 3.0
+
+The published coordinates establish the photographer's recorded camera location, not an independently discovered result from this investigation.
+
+The source description mentions a possible connection to a historic site at 137 S. Limestone Street, Lexington, Kentucky, but says the relationship is unclear.
+
+## 10. Revised Assessment
+
+The image is confirmed as originating from a photograph associated with Lexington, Kentucky, through its original source record and published camera-location metadata.
+
+However, this is source-based verification, not a blind geolocation result. The exact storefront identity and the relationship between the visible scene and the source description remain unresolved.
+
+## 11. Final Limitation
+
+The investigation demonstrates metadata inspection, visual clue collection, source verification, and confidence-aware reporting. It does not demonstrate an independent discovery of the published coordinates.
